@@ -1,0 +1,8 @@
+# Bỏ qua tất cả các file thực thi (.exe) trong toàn bộ dự án
+*.exe
+
+# Bỏ qua các file nén (.zip)
+*.zip
+
+# Bỏ qua các file cấu hình tạm của VS Code (tùy chọn)
+.vscode/
